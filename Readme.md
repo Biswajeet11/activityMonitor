@@ -3,7 +3,11 @@
 An Activity monitor App made using ReactJS which check the activity of the user at a particular day and time he started the activity and ended it.
 
 ## Link for the Application
- [Activity Monitor] (https://evening-castle-90721.herokuapp.com/)
+ The application is hosted on the given link
+ <a href = "https://evening-castle-90721.herokuapp.com/">
+  <button style = "padding:7px">Demo Link of the App</button>
+</a>
+
 
 ## Clone
 
@@ -30,7 +34,7 @@ Below are the Sceens preview
 <img src="./src/assets/readmeImages/image1.png" />
 
 * Modal shows calendar for user not active on a particular day
-<img src="./src/assets/readmeImages/image2.png" width="100" height="150"/>
+<img src="./src/assets/readmeImages/image2.png" width="500" height="450"/>
 
 * Modal shows calendar for user not active on a particular day with their respective starttime and endtime of the day
-<img src="./src/assets/readmeImages/image3.png" width="100" height="150"/>
+<img src="./src/assets/readmeImages/image3.png" width="500" height="450"/>
