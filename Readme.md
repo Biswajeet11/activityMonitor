@@ -1,26 +1,36 @@
 ### Activity Monitor App
 
-An Activity monitor App made using React which check the activity of the user at a particular day and time he started the activity and ended it.
+An Activity monitor App made using ReactJS which check the activity of the user at a particular day and time he started the activity and ended it.
 
-<!-- ## Features
-
-* Supports different browsers: IE10,Chrome,FireFox using `react-app-polyfill`.
-* Interactive Charts.
-* Internationalization using `react-i18next`. 
-* Integrated `Redux` for setting up global Internationalization. -->
-
+## Link for the Application
+ [Activity Monitor] https://evening-castle-90721.herokuapp.com/
 
 ## Clone
 
-<!-- `git clone git@github.com:Biswajeet11/react-dashboard-boilerplate.git` -->
+`git@github.com:Biswajeet11/activityMonitor.git`
 
+## Setup 
+
+* After cloning the project `cd activityMonitor`
+* Install the dependenies via `npm i`
+* Run the application scrip `npm start`
+* Application runs at <a href="\localhost:3000">`localhost:3000`</a>.
+
+
+## WorkFlow of the Application
+
+The end user is able to see list of users. When the user clicks on a particular user card modal pops up
+with calendar where the user can see the details of the activities track.
+The user can see the highlighted dates and time when the user is active using the `JSON` data for users. 
 
 ## Preview
-<!-- <img src="./src/assets/images/image1.png"/>
-<img src ="./src/assets/images/image2.png"/>
-<img src ="./src/assets/images/image3.png"/>
-<img src ="./src/assets/images/image4.png"/>
-<img src ="./src/assets/images/image5.png"/> -->
+Below are the Sceens preview
 
+* User list screen show different users with name and time zone
+<img src="./src/assets/readmeImages/image1.png"/>
 
+* Modal shows calendar for user not active on a particular day
+<img src="./src/assets/readmeImages/image2.png"/>
 
+* Modal shows calendar for user not active on a particular day with their respective starttime and endtime of the day
+<img src="./src/assets/readmeImages/image3.png"/>
