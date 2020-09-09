@@ -34,7 +34,7 @@ Below are the Sceens preview
 <img src="./src/assets/readmeImages/image1.png" />
 
 * Modal shows calendar for user not active on a particular day
-<img src="./src/assets/readmeImages/image2.png" width="500" height="450"/>
+<img src="./src/assets/readmeImages/image2.png" />
 
 * Modal shows calendar for user not active on a particular day with their respective starttime and endtime of the day
-<img src="./src/assets/readmeImages/image3.png" width="500" height="450"/>
+<img src="./src/assets/readmeImages/image3.png" />
