@@ -16,14 +16,14 @@ An Activity monitor App made using ReactJS which check the activity of the user 
 ## Setup 
 
 * After cloning the project `cd activityMonitor`
-* Install the dependenies via `npm i`
-* Run the application scrip `npm start`
+* Install the dependencies via `npm i`
+* Run the application script `npm start`
 * Application runs at <a href="\localhost:3000">`localhost:3000`</a>.
 
 
 ## WorkFlow of the Application
 
-The end user is able to see list of users. When the user clicks on a particular user card modal pops up
+The end user is able to see list of users. When the user clicks on a particular user-card, modal pops up
 with calendar where the user can see the details of the activities track.
 The user can see the highlighted dates and time when the user is active using the `JSON` data for users. 
 
