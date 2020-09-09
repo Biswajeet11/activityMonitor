@@ -2,9 +2,6 @@
   "name": "user-monitor",
   "version": "0.1.0",
   "private": true,
-  "scripts": {
-    "start": "react-scripts start"
-  },
   "dependencies": {
     "@date-io/date-fns": "^1.3.13",
     "@material-ui/core": "^4.11.0",
@@ -16,7 +13,28 @@
     "moment": "^2.27.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "serve": "^11.3.0"
+  },
+  "engines": {
+    "npm": "6.14.7",
+    "node": "10.15.3"
+  },
+  "watch": {
+    "build": {
+      "patterns": [
+        "src"
+      ],
+      "extensions": "js,jsx"
+    }
+  },
+  "scripts": {
+    "dev": "react-scripts start",
+    "start": "serve -s build",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "heroku-postbuild": "npm run build"
   },
   "browserslist": {
     "production": [
