@@ -1,0 +1,223 @@
+{
+	"ok": true,
+	"members": [{
+			"id": "W012A3CDE",
+			"real_name": "Egon Spengler",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 6 2020  1:33PM",
+					"end_time": "Feb 6 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 8 2020  11:11AM",
+					"end_time": "Mar 8 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				},
+				{
+					"start_time": "Sep 6 2020  5:33PM",
+					"end_time": "Sep 6 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W07QCRPA4",
+			"real_name": "Glinda Southgood",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 5 2020  1:33PM",
+					"end_time": "Feb 5 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 7 2020  11:11AM",
+					"end_time": "Mar 7 2020 2:00PM"
+				},
+				{
+					"start_time": "Aug 10 2020  5:33PM",
+					"end_time": "Aug 10 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W012A3ADE",
+			"real_name": "Rachel Booker",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 10 2020  1:33PM",
+					"end_time": "Feb 10 2020 1:54PM"
+				},
+				{
+					"start_time": "Sep 5 2020  11:11AM",
+					"end_time": "Sep 5 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W012B3CDE",
+			"real_name": "Laura Grey",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 6 2020  1:33PM",
+					"end_time": "Feb 6 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 18 2020  11:11AM",
+					"end_time": "Mar 18 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W012R3CDE",
+			"real_name": "Craig Johnson",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 4 2020  1:33PM",
+					"end_time": "Feb 4 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W012K3CDE",
+			"real_name": "Mary Jenkins",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W012A3CIE",
+			"real_name": "Jamie Smith",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W012A3CLE",
+			"real_name": "Roy Spengler",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W012A3FDE",
+			"real_name": "Josh Butler",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W012AUCDE",
+			"real_name": "Samie Johnson",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W012AOCDE",
+			"real_name": "Rolf Woods",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},{
+			"id": "W012A3RDE",
+			"real_name": "Joe Rosh",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		}
+	]
+}
